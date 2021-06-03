@@ -1,0 +1,26 @@
+{
+  "name": "spacex-clone",
+  "version": "1.0.0",
+  "description": "Space X Clone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omunoz-89/spacex-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omunoz-89/spacex-clone/issues"
+  },
+  "homepage": "https://github.com/omunoz-89/spacex-clone#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.12"
+  }
+}
